@@ -1,0 +1,125 @@
+{
+  "project_name": "CLAW MEDIA",
+  "tagline": "LET US PLAY YOUR MARKETING GAME.",
+  "visual_direction": "Dark Editorial × Technical Interface × Creative Studio × Game System",
+  "theme": "dark",
+  "colors": {
+    "background_pure": "#000000",
+    "surface_deep": "#131313",
+    "surface_card": "#1A1A1A",
+    "surface_hover": "#242424",
+    "accent_cyan": "#00F0FF",
+    "accent_blue": "#3E63DD",
+    "border_subtle": "rgba(255, 255, 255, 0.12)",
+    "border_active": "#00F0FF",
+    "text_primary": "#F5F5F5",
+    "text_secondary": "#8E8E93",
+    "text_muted": "#555555"
+  },
+  "typography": {
+    "font_family_display": "'Anton', sans-serif",
+    "font_family_body": "'Hanken Grotesk', sans-serif",
+    "font_family_mono": "'JetBrains Mono', monospace",
+    "hierarchy": {
+      "h1_hero": "text-5xl sm:text-6xl lg:text-7xl uppercase font-extrabold tracking-tight font-display",
+      "h2_section": "text-3xl sm:text-4xl lg:text-5xl uppercase font-bold tracking-tight font-display",
+      "h3_card": "text-xl sm:text-2xl font-bold tracking-normal font-body",
+      "mono_label": "text-xs tracking-widest uppercase font-mono text-[#00F0FF]",
+      "body_text": "text-base sm:text-lg text-[#8E8E93] font-body leading-relaxed"
+    }
+  },
+  "key_features_and_sections": [
+    {
+      "id": "01_preloader",
+      "name": "01 Preloader Sequence",
+      "description": "Interactive intro loader with animated CLAW MEDIA vector mark, retro system boot readout, 'LOADING THE GAME...' percentage bar, target reticle animation, and 'READY? - PRESS START' trigger button"
+    },
+    {
+      "id": "02_navbar",
+      "name": "02 Technical Command Navbar",
+      "description": "Minimal top bar with live server status dot (ONLINE), FPS/latency micro readout, section jump anchors, and 'PLAY WITH US' primary cyan CTA button"
+    },
+    {
+      "id": "03_hero",
+      "name": "03 Game Operating Hero",
+      "description": "Huge display headline 'LET US PLAY YOUR MARKETING GAME.' featuring an interactive hanging physical swinging board 'CLAW STUDIO' under the 'G' in MARKETING that subtle-swings on hover/scroll. Includes 'Technology × Media × Marketing' tag, 'START THE GAME' CTA, and floating live UI cards (Leads +197/mo, ROI 4.8x, Live System Alerts)"
+    },
+    {
+      "id": "04_industry_selector",
+      "name": "04 What's Your Game?",
+      "description": "7 selectable industry cards (Real Estate, Hospitality, Café & Nightlife, Jewellery, Education, Coaching, Study Abroad). Selecting an industry activates a step-by-step interactive marketing funnel (e.g. Website → Leads → CRM → Content → Ads → Conversion) with metric benchmarks"
+    },
+    {
+      "id": "05_services_grid",
+      "name": "05 Things We Do",
+      "description": "Services organized into 4 core game systems: BUILD (Web & Engines), CREATE (Media & Studio), GROW (Traffic & Ads), AUTOMATE (CRM & AI Agents) with detailed sub-skill tags"
+    },
+    {
+      "id": "06_ecosystem_360",
+      "name": "06 360° System Interface",
+      "description": "'ONE BUSINESS. ONE SYSTEM.' interactive radial hub diagram connecting BRAND, MEDIA, TRAFFIC, TECH, DATA, CRM, and AUTOMATION into a central pulsing GROWTH engine"
+    },
+    {
+      "id": "07_how_we_play",
+      "name": "07 How We Play Process",
+      "description": "5-Level progression roadmap (LEVEL 01 UNDERSTAND → LEVEL 02 BUILD → LEVEL 03 LAUNCH → LEVEL 04 OPTIMIZE → LEVEL 05 SCALE) with XP metrics and milestone deliverables"
+    },
+    {
+      "id": "08_case_studies",
+      "name": "08 The Games We've Played",
+      "description": "High-impact case study cards with real data: KINGS PRIDE INFRA (+197 leads, ₹40.72 CPL), SHONITARA (D2C Jewellery growth), SBJ (Jewellery brand transformation)"
+    },
+    {
+      "id": "09_website_score_tool",
+      "name": "09 Play With CLAW - Website Score Analyzer",
+      "description": "Working interactive tool where users enter their URL, receive an instant CLAW SCORE breakdown (Brand, Experience, Mobile, Conversion, SEO, Performance, Social, Growth Potential), 'YOUR BIGGEST OPPORTUNITY' analysis, and a lead capture form to request full strategy PDF"
+    },
+    {
+      "id": "10_claw_lab",
+      "name": "10 The CLAW Lab",
+      "description": "Experimental tech cards showcase (AI Marketing Agents, Next-Gen Web Experiences, Campaign Experiments, Creator Systems, Marketing Automation, Data Intelligence)"
+    },
+    {
+      "id": "11_why_claw",
+      "name": "11 Why The CLAW?",
+      "description": "4 brutal truth statements countering traditional agency failures with high-contrast editorial typography"
+    },
+    {
+      "id": "12_ready_to_play",
+      "name": "12 Ready To Play Enquiry Engine",
+      "description": "Final conversion section with 'START A PROJECT' / 'JUST SAY HELLO' tabs, quick WhatsApp link, and a comprehensive project enquiry form"
+    },
+    {
+      "id": "13_footer",
+      "name": "13 Technical Command Footer",
+      "description": "Footer with system coordinates, social links, status monitors, and copyright © 2026 CLAW MEDIA"
+    }
+  ],
+  "visual_enhancers": {
+    "cursor": "Custom reticle target crosshair with smooth tracking and hover state expander",
+    "background_effects": "Interactive Canvas particle grid + WebGL pulse lines + dark vignette border + scanlines overlay",
+    "hanging_sign": "CSS keyframe swing animation with physical spring stiffness on the CLAW STUDIO hanging sign in hero",
+    "micro_decorations": "Technical corner crosshairs (+), grid alignment lines, handwritten technical notes, data labels in monospace"
+  },
+  "image_urls": {
+    "hero_building": "https://images.unsplash.com/photo-1786041176778-14825b13576f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NTN8MHwxfHNlYXJjaHwzfHxsdXh1cnklMjByZWFsJTIwZXN0YXRlJTIwYXJjaGl0ZWN0dXJlJTIwbW9kZXJuJTIwZGFyayUyMGRlc2lnbnxlbnwwfHx8fDE3ODcxNTE3OTd8MA&ixlib=rb-4.1.0&q=85",
+    "real_estate_kings_pride": "https://images.unsplash.com/photo-1757356657991-c3fd6e2e812e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NTN8MHwxfHNlYXJjaHwyfHxsdXh1cnklMjByZWFsJTIwZXN0YXRlJTIwYXJjaGl0ZWN0dXJlJTIwbW9kZXJuJTIwZGFyayUyMGRlc2lnbnxlbnwwfHx8fDE3ODcxNTE3OTd8MA&ixlib=rb-4.1.0&q=85",
+    "jewellery_shonitara": "https://images.pexels.com/photos/30541170/pexels-photo-30541170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "jewellery_sbj": "https://images.pexels.com/photos/30541188/pexels-photo-30541188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "nightlife_cafe": "https://images.unsplash.com/photo-1519214605650-76a613ee3245?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2MTJ8MHwxfHNlYXJjaHwxfHxuaWdodGxpZmUlMjBjb2NrdGFpbCUyMGxvdW5nZSUyMG5lb24lMjBkYXJrJTIwYWVzdGhldGljfGVufDB8fHx8MTc4NzE1MTc5N3ww&ixlib=rb-4.1.0&q=85"
+  },
+  "component_path": "/app/frontend/src/App.js",
+  "instructions_to_main_agent": [
+    "Import Anton, Hanken Grotesk, and JetBrains Mono Google Fonts in index.html / index.css",
+    "Ensure seamless single-page flow across all 13 sections without boxy isolated gaps",
+    "Implement the physical swinging CLAW STUDIO hanging sign under the 'G' in MARKETING in the hero",
+    "Provide full interactive functionality for the Website Score Tool with calculated score cards and lead capture modal",
+    "Add data-testid attributes to all interactive elements, buttons, inputs, tabs, and industry cards"
+  ],
+  "UNIVERSAL GUIDELINES FOR MAIN AGENT": [
+    "Dark colors look good when used independently without gradients. DO NOT use dark colors as gradients",
+    "Every interaction needs micro-animations - hover states, transitions, parallax effects, and entrance animations.",
+    "Use 2-3x more spacing than feels comfortable. Cramped designs look cheap.",
+    "All interactive elements MUST include a data-testid attribute in kebab-case format."
+  ]
+}
