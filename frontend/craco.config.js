@@ -145,7 +145,9 @@ if (isDevServer) {
 }
 
 const configureDevServer = webpackConfig.devServer;
-webpackConfig.devServer = (devServerConfig) =>
-  makeDevServerV5Compatible(configureDevServer(devServerConfig));
+if (isDevServer && typeof configureDevServer === "function") {
+  webpackConfig.devServer = (devServerConfig) =>
+    makeDevServerV5Compatible(configureDevServer(devServerConfig));
+}
 
 module.exports = webpackConfig;
